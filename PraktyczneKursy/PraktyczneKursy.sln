@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraktyczneKursy", "PraktyczneKursy\PraktyczneKursy.csproj", "{8964B279-F83C-42FD-9A05-B2430FB354DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraktyczneKursy.Tests", "PraktyczneKursy.Tests\PraktyczneKursy.Tests.csproj", "{60F1ED0D-0E42-4E1B-A759-B7EF7BD5E1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8964B279-F83C-42FD-9A05-B2430FB354DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8964B279-F83C-42FD-9A05-B2430FB354DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8964B279-F83C-42FD-9A05-B2430FB354DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8964B279-F83C-42FD-9A05-B2430FB354DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F1ED0D-0E42-4E1B-A759-B7EF7BD5E1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F1ED0D-0E42-4E1B-A759-B7EF7BD5E1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F1ED0D-0E42-4E1B-A759-B7EF7BD5E1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F1ED0D-0E42-4E1B-A759-B7EF7BD5E1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
